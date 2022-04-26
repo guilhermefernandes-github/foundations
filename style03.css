@@ -1,0 +1,16 @@
+/* style03.css */
+
+.buttonOne,
+.buttonTwo  {
+    font-family: helvetica, 'times new roman', sans-serif;
+    font-size: 28px;
+    }
+
+.buttonOne {
+    background-color: black;
+    color: white;
+}
+
+.buttonTwo {
+    background-color: yellow;
+}
